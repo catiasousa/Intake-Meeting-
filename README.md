@@ -1,1 +1,1 @@
-# Frameworr for Intake Meeting w/Hiring Manager
+# Framework for Intake Meeting w/Hiring Manager
